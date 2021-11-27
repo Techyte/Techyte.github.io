@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.subtitle {
+  width: 100%;
+}
+
+.subtitle h2 {
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  width: 33%
+}
+
+.x {
+  font-size: xx-large;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.abouttext {
+  border: 3px solid #1c87c9;
+  height: 150px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
