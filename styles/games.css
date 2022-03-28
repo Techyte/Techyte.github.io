@@ -9,7 +9,12 @@
     text-align: center;
     font-family: 'Roboto', sans-serif;
   }
-  
-  .Games {
-    padding-left: 15%;
+
+  img {
+    display: flex;
+    margin-left: 27%;
+    margin-right: auto;
+    float: left;
+    width: 10%;
+    padding: 5px;
   }
