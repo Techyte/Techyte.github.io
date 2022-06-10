@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+}
